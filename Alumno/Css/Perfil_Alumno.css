@@ -1,0 +1,40 @@
+.div{
+    background-image: url(/Alumno/Imag/hader.jpg);
+    padding: 2%;
+    border: 2px solid #000;
+}
+
+.avatar{
+    width:100px ;
+    height:100px;
+    margin-left: 45%; 
+    
+
+}
+h1{
+font-size: 25px;
+margin-top: 10px;
+margin-left: 25%;
+}
+.perfil{
+    margin-left:45%;
+    color: #fff;
+}
+.nombre{
+    margin-left:35%;
+}
+.cuatri{
+    margin-left: 35%;
+}
+
+.horario{
+    margin-left: 35%;
+}
+.taller{
+    margin-left: 35%;
+}
+.info{
+ 
+    border: 2px solid #000;
+    
+}

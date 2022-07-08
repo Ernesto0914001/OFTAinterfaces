@@ -1,0 +1,21 @@
+.liberado{
+background: #0ba229;
+border: 2px solid;
+position: relative;
+border-color: #0ba229;;
+}
+
+.No_liberado{
+background: #fde506;
+border: 2px solid;
+border-color: #fde506;
+position: relative;
+}
+
+
+.Baja{
+    background: #FF0000;
+    border: 2px solid;
+    border-color: #FF0000;
+    position: relative;
+    }

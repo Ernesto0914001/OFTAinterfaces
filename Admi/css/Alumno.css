@@ -1,0 +1,21 @@
+#circulo {
+    height: 100px;
+    width: 100px;
+    background-color: #e76afa;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    margin: 30px;
+    margin-right: 100px;
+    margin-left: 135px;
+}
+
+.rectangulo {
+    margin: 0px;
+    margin-top: 0px;
+    width: 250px;
+    background: #04AB84;
+    margin-left: 0px;
+    margin-right: 0px;
+    position: center;
+}
