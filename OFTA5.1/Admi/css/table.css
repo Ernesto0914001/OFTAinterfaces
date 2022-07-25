@@ -1,0 +1,18 @@
+ .principal,table {
+    width: 70%;
+    margin: 5%;
+    border-collapse: collapse;
+    margin-left: 16%;
+    
+ }
+ 
+ th,
+ td,
+ tr {
+     border: 3px solid rgb(0, 0, 0);
+     border-collapse: collapse;
+     padding: 15px;
+     text-align: center;
+     background-color:#31B96E;
+     color: white;
+ }
